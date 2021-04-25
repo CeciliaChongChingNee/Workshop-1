@@ -12,7 +12,7 @@
 ## B. ABSTRACT 
 e-Cafeteria: Food Ordering and Food Budgeting Application is a system that can improve the current system of UTeM’s cafeteria. This system would allow customers order the daily meals and plan their daily budget. Besides, this system would allow the vendors estimate the quantity of item that need to prepare for every day and calculate their profit easily. Through this system, vendors can know the favourite items and estimate the budget of daily meals for majority customer. It is because all information would be stored in database for easier reference. 
 
-![Coding](https://github.com/CeciliaChongChingNee/Workshop-1/blob/main/Structure%20Chart%20Version%202.jpg)
+![Coding](https://github.com/CeciliaChongChingNee/Workshop-1/blob/main/Picture/Structure%20Chart%20Version%202.jpg)
 Figure 1: The structure chart of this system
 
 ## C. DATABASE
