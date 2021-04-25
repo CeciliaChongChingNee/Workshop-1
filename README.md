@@ -18,7 +18,7 @@ Figure 1: The structure chart of this system
 ## C. DATABASE
 In this project, we have 8 table which are user, meal type, order, order detail, payment, budget type and budget. 
 
-![Coding](https://github.com/CeciliaChongChingNee/Workshop-1/blob/main/ERD_SecondDraft_Version2.jpg)
+![Coding](https://github.com/CeciliaChongChingNee/Workshop-1/blob/main/Picture/ERD_SecondDraft_Version2.jpg)
 Figure 2: Entity Relationship Diagram (ERD) of the system
 
 ## D. PROJECT PRESENTATION 
