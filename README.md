@@ -22,7 +22,7 @@ In this project, we have 8 table which are user, meal type, order, order detail,
 Figure 2: Entity Relationship Diagram (ERD) of the system
 
 ## D. PROJECT PRESENTATION 
-In this presentation video
+
 [![demo](https://img.youtube.com/vi/lQczo4kWfFw/0.jpg)](https://youtu.be/lQczo4kWfFw "demo")
 
 Figure 3: Demo of the project
