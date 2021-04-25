@@ -24,6 +24,7 @@ Figure 2: Entity Relationship Diagram (ERD) of the system
 ## D. PROJECT PRESENTATION 
 
 [![demo](https://img.youtube.com/vi/lQczo4kWfFw/0.jpg)](https://youtu.be/lQczo4kWfFw "demo")
+
 Figure 3: Demo of the project
 
 ## E. CONCLUSION
