@@ -24,7 +24,8 @@ Figure 2: Entity Relationship Diagram (ERD) of the system
 ## D. PROJECT PRESENTATION 
 
 [![demo](https://img.youtube.com/vi/lQczo4kWfFw/0.jpg)](https://youtu.be/lQczo4kWfFw "demo")
-   Figure 3: Demo of the project
+
+Figure 3: Demo of the project
 
 ## E. CONCLUSION
 In conclusion, I have developed the e-cafeteria system. The system is able to help user organize their budget and generate sales report for vendor. This allow for better budget planning and better preparation for daily food preparation. By generating report of daily sales and generating ranking, vendor can better plan their food stock for the next day. By having food preparation, there will be enough to supply everyone even during rush hour. Furthermore, the cafeteria is able to provide delivery service now with the system. This allows for individuals to easily access the cafeteria no matter where they are which will increase the profit of the cafeteria as well.
